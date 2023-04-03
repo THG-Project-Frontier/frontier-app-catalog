@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  api-tier:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-04-03T14:51:34.363677274Z"
+    description: A Helm chart for Kubernetes
+    digest: 0a0f1cae7879c401d0a676843bb2b17f083cdb0f2bf8d34e088582f7b140353e
+    name: api-tier
+    type: application
+    urls:
+    - https://THG-Project-Frontier.github.io/frontier-app-catalog/api-tier-1.0.5.tgz
+    version: 1.0.5
+generated: "2023-04-03T14:51:34.359501653Z"
