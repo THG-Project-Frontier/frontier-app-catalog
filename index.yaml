@@ -3,7 +3,7 @@ entries:
   api-tier:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T13:50:42.348822566Z"
+    created: "2023-04-13T14:26:31.187784654Z"
     description: A Helm chart for Kubernetes
     digest: b2445641fdb68469312e4b18ad0598287c8ce55e60768a2001c9487fb47b2de8
     name: api-tier
@@ -13,7 +13,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T13:50:42.348241864Z"
+    created: "2023-04-13T14:26:31.187079831Z"
     description: A Helm chart for Kubernetes
     digest: 0a0f1cae7879c401d0a676843bb2b17f083cdb0f2bf8d34e088582f7b140353e
     name: api-tier
@@ -23,7 +23,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T13:50:42.347684962Z"
+    created: "2023-04-13T14:26:31.186408609Z"
     description: A Helm chart for Kubernetes
     digest: d3518bc457b209be9e574148d33cf73e05c7b3d30a8f5ad5a158e95e64537511
     name: api-tier
@@ -31,10 +31,20 @@ entries:
     urls:
     - https://THG-Project-Frontier.github.io/frontier-app-catalog/api-tier-0.0.0-e5d21d2d06c3d070f2111b12c004fa6852fcef1c.tgz
     version: 0.0.0-e5d21d2d06c3d070f2111b12c004fa6852fcef1c
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-04-13T14:26:31.185748088Z"
+    description: A Helm chart for Kubernetes
+    digest: 39910a8cada734d04e28de62ae4dba9f44e30a6bac5f46ddc5f0ec5fb82dbc28
+    name: api-tier
+    type: application
+    urls:
+    - https://THG-Project-Frontier.github.io/frontier-app-catalog/api-tier-0.0.0-cefe93a7c4229dfb5ad54e0760ed267fb77ed475.tgz
+    version: 0.0.0-cefe93a7c4229dfb5ad54e0760ed267fb77ed475
   processing-tier:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-13T13:50:42.349345268Z"
+    created: "2023-04-13T14:26:31.188502677Z"
     description: A Helm chart for Kubernetes
     digest: 325763ac8cad1fbab9c7145dd3f8a6d6a77ffb469e59faac2ae515cbc0798156
     name: processing-tier
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://THG-Project-Frontier.github.io/frontier-app-catalog/processing-tier-0.1.7.tgz
     version: 0.1.7
-generated: "2023-04-13T13:50:42.343747548Z"
+generated: "2023-04-13T14:26:31.17961749Z"
