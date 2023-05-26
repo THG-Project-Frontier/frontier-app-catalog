@@ -3,7 +3,17 @@ entries:
   api-documentation-web-app:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.776547464Z"
+    created: "2023-05-26T09:42:03.577502996Z"
+    description: A Helm chart for Kubernetes
+    digest: c0f5e8f0eade8f55b4b43c971119d11fca318a438f11326e69b85f43ed3b58f5
+    name: api-documentation-web-app
+    type: application
+    urls:
+    - https://THG-Project-Frontier.github.io/frontier-app-catalog/api-documentation-web-app-0.0.12.tgz
+    version: 0.0.12
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-05-26T09:42:03.576866568Z"
     description: A Helm chart for Kubernetes
     digest: 0cb24d6b25d670bf5eb244a93e7d75e797e384a28b1bd30729e62939d93f1892
     name: api-documentation-web-app
@@ -13,7 +23,7 @@ entries:
     version: 0.0.11
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.775966255Z"
+    created: "2023-05-26T09:42:03.576021831Z"
     description: A Helm chart for Kubernetes
     digest: 4f1b49af067cb2a6e8f0c80524b8c2326d5f605593c9acad6c0357d84ac58d1c
     name: api-documentation-web-app
@@ -23,7 +33,7 @@ entries:
     version: 0.0.10
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.781220736Z"
+    created: "2023-05-26T09:42:03.582234204Z"
     description: A Helm chart for Kubernetes
     digest: bbc099d4afa1bed41df0c5a324b8c1165cb2f39739d167b448fe1b4bac3ef3b8
     name: api-documentation-web-app
@@ -33,7 +43,7 @@ entries:
     version: 0.0.9
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.780662127Z"
+    created: "2023-05-26T09:42:03.581665279Z"
     description: A Helm chart for Kubernetes
     digest: 8496be1b184514d012edfc4bb3880aef2d3671b959dea8b920c43543feb894fd
     name: api-documentation-web-app
@@ -43,7 +53,7 @@ entries:
     version: 0.0.8
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.780097419Z"
+    created: "2023-05-26T09:42:03.581097754Z"
     description: A Helm chart for Kubernetes
     digest: cd1bd4452878c3bf8dca33d84dafe8d4f3b0ac467ddbf55cc07146a2e5ac82be
     name: api-documentation-web-app
@@ -53,7 +63,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.77950211Z"
+    created: "2023-05-26T09:42:03.580523829Z"
     description: A Helm chart for Kubernetes
     digest: f2bac1ee8497d8cb7d2003454af4d4ba944023663f1cbced5cfbd325689e0944
     name: api-documentation-web-app
@@ -63,7 +73,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.778931401Z"
+    created: "2023-05-26T09:42:03.579970904Z"
     description: A Helm chart for Kubernetes
     digest: 576b13a76578146fc9fd8ccda36e9704815a5eda96f874f58b5e1118b4a40088
     name: api-documentation-web-app
@@ -73,7 +83,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.778355592Z"
+    created: "2023-05-26T09:42:03.579376078Z"
     description: A Helm chart for Kubernetes
     digest: 8c06c3a125dcfc410a9af971e6445f0144fd25e9c2da28aa7812203ac26ae4bf
     name: api-documentation-web-app
@@ -83,7 +93,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.777749083Z"
+    created: "2023-05-26T09:42:03.578812253Z"
     description: A Helm chart for Kubernetes
     digest: b664f071075c9536ae575c9fb898adc925ab7b15b981a1814711b81eded6f1da
     name: api-documentation-web-app
@@ -93,7 +103,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.777147773Z"
+    created: "2023-05-26T09:42:03.578141524Z"
     description: A Helm chart for Kubernetes
     digest: dbfbe08e262a694263b0b1bd99469df103ac050c54901d75dfb7f7b839450091
     name: api-documentation-web-app
@@ -104,7 +114,7 @@ entries:
   api-tier:
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.805302106Z"
+    created: "2023-05-26T09:42:03.605616232Z"
     description: A Helm chart for Kubernetes
     digest: 1e8a41d6667d8bd878aca123d3e575740c627033b6f68b164572bc7549f320c0
     name: api-tier
@@ -114,7 +124,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.804823598Z"
+    created: "2023-05-26T09:42:03.60464939Z"
     description: A Helm chart for Kubernetes
     digest: acb52686f8a67f9315578948c2882e794177557508c3a5c49edfb6a65e42f482
     name: api-tier
@@ -124,7 +134,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.804340191Z"
+    created: "2023-05-26T09:42:03.604132567Z"
     description: A Helm chart for Kubernetes
     digest: b2445641fdb68469312e4b18ad0598287c8ce55e60768a2001c9487fb47b2de8
     name: api-tier
@@ -134,7 +144,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.803829883Z"
+    created: "2023-05-26T09:42:03.603630445Z"
     description: A Helm chart for Kubernetes
     digest: 0a0f1cae7879c401d0a676843bb2b17f083cdb0f2bf8d34e088582f7b140353e
     name: api-tier
@@ -144,7 +154,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.803110472Z"
+    created: "2023-05-26T09:42:03.603125823Z"
     description: A Helm chart for Kubernetes
     digest: 0387eaa724967b4995536a3a1fead7bb90d47731a0f83e841324a1484c19de47
     name: api-tier
@@ -154,7 +164,7 @@ entries:
     version: 0.0.999999
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.797265282Z"
+    created: "2023-05-26T09:42:03.597904193Z"
     description: A Helm chart for Kubernetes
     digest: 2590f206608810b686696392da9c0955938ac353bfaec63c784b6fb7aed038dd
     name: api-tier
@@ -164,7 +174,7 @@ entries:
     version: 0.0.8210
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.790454078Z"
+    created: "2023-05-26T09:42:03.591112194Z"
     description: A Helm chart for Kubernetes
     digest: e28acada6dee134b2d445454b2f3a9d63bb945971cf26ef1f5a9bbb94074f2da
     name: api-tier
@@ -174,7 +184,7 @@ entries:
     version: 0.0.7717
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.789804468Z"
+    created: "2023-05-26T09:42:03.590475166Z"
     description: A Helm chart for Kubernetes
     digest: 5e3a41c02c1e064c16e4db83e8453a3e0901195b6da04110d7603694ab93db65
     name: api-tier
@@ -184,7 +194,7 @@ entries:
     version: 0.0.7716
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.789143358Z"
+    created: "2023-05-26T09:42:03.589844339Z"
     description: A Helm chart for Kubernetes
     digest: 5ab585065a7db63faf9b2c0d43d39127e0656b045780827092666c7760edcddd
     name: api-tier
@@ -194,7 +204,7 @@ entries:
     version: 0.0.7715
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.788384646Z"
+    created: "2023-05-26T09:42:03.58919841Z"
     description: A Helm chart for Kubernetes
     digest: 66f93945f18120e24de5ba7257750afae5834eeb9a4db276f1d2f5d2d0a27e46
     name: api-tier
@@ -204,7 +214,7 @@ entries:
     version: 0.0.7714
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.787731936Z"
+    created: "2023-05-26T09:42:03.588556782Z"
     description: A Helm chart for Kubernetes
     digest: e6d518ec8494caf08cf9ce4d63cfdfde38fd048df9b18fc8d4afec0f6c0d68d1
     name: api-tier
@@ -214,7 +224,7 @@ entries:
     version: 0.0.7713
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.786999925Z"
+    created: "2023-05-26T09:42:03.587906553Z"
     description: A Helm chart for Kubernetes
     digest: 6ef531d7688cdd180fcdf982953006f888bf46413b9b80cfe755fbb5a648990d
     name: api-tier
@@ -224,7 +234,7 @@ entries:
     version: 0.0.7712
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.786360215Z"
+    created: "2023-05-26T09:42:03.587241324Z"
     description: A Helm chart for Kubernetes
     digest: 2d1bf71f7c471db1c56e99c9064237cd5f5e62a07d6ab5e296a6e83e62709343
     name: api-tier
@@ -234,7 +244,7 @@ entries:
     version: 0.0.7711
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.802431862Z"
+    created: "2023-05-26T09:42:03.602627301Z"
     description: A Helm chart for Kubernetes
     digest: c186f4352768922a0b033b906ad0eeefe4b549ad771d3a586e6153abb68f70ef
     name: api-tier
@@ -244,7 +254,7 @@ entries:
     version: 0.0.829
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.801327245Z"
+    created: "2023-05-26T09:42:03.60191947Z"
     description: A Helm chart for Kubernetes
     digest: 4161ab072b67410bb8fd72034f229b915628f3510b03e8610e7b11be4491ec5b
     name: api-tier
@@ -254,7 +264,7 @@ entries:
     version: 0.0.828
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.800646834Z"
+    created: "2023-05-26T09:42:03.60125494Z"
     description: A Helm chart for Kubernetes
     digest: e200ca33f7ed7777b287eb792e0f010b39094587cc39b2dfedaba457f31c1116
     name: api-tier
@@ -264,7 +274,7 @@ entries:
     version: 0.0.827
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.799952824Z"
+    created: "2023-05-26T09:42:03.600591811Z"
     description: A Helm chart for Kubernetes
     digest: e5b4cfb169fe5b11ab64785a4f9c3d75ebda03624ff068df36753b0324cfaaf6
     name: api-tier
@@ -274,7 +284,7 @@ entries:
     version: 0.0.826
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.799292713Z"
+    created: "2023-05-26T09:42:03.599925382Z"
     description: A Helm chart for Kubernetes
     digest: 7098a7c2a13af908bd2a1cdea96dca210612a5b6b85a0a821a8abd0de9c6dd8e
     name: api-tier
@@ -284,7 +294,7 @@ entries:
     version: 0.0.825
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.798609503Z"
+    created: "2023-05-26T09:42:03.599234151Z"
     description: A Helm chart for Kubernetes
     digest: 1dfe16c8f72338642507a4fa615d62450f81c7865f9f330e64a0905eba9f7cd6
     name: api-tier
@@ -294,7 +304,7 @@ entries:
     version: 0.0.824
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.797957393Z"
+    created: "2023-05-26T09:42:03.598579323Z"
     description: A Helm chart for Kubernetes
     digest: a2700b6300a7515f37e7ecd4105f465beeed5d09e438ac035c243896cca4d558
     name: api-tier
@@ -304,7 +314,7 @@ entries:
     version: 0.0.822
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.796608072Z"
+    created: "2023-05-26T09:42:03.597167061Z"
     description: A Helm chart for Kubernetes
     digest: ba07b58c57d596ad3e56f93875c74b26957712f13854f4bc3fba2ab73ee3f27b
     name: api-tier
@@ -314,7 +324,7 @@ entries:
     version: 0.0.821
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.795942362Z"
+    created: "2023-05-26T09:42:03.596214319Z"
     description: A Helm chart for Kubernetes
     digest: d94fc6cc56855f5481a9cf6f7fa5ae38a0f873a844145c7f632493f2b3fc153f
     name: api-tier
@@ -324,7 +334,7 @@ entries:
     version: 0.0.779
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.795304852Z"
+    created: "2023-05-26T09:42:03.595267677Z"
     description: A Helm chart for Kubernetes
     digest: 451018b5583cdf650f60daa2857e40033217972a0fe832e497c1a1886e08c123
     name: api-tier
@@ -334,7 +344,7 @@ entries:
     version: 0.0.778
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.794640842Z"
+    created: "2023-05-26T09:42:03.594307435Z"
     description: A Helm chart for Kubernetes
     digest: b6bc2a6e9ce582d5c03872f4069bb0db3e00c36fd63603389e6d2a30211d529a
     name: api-tier
@@ -344,7 +354,7 @@ entries:
     version: 0.0.777
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.793990132Z"
+    created: "2023-05-26T09:42:03.593680307Z"
     description: A Helm chart for Kubernetes
     digest: db9c48f80943f0ce25b152ab156530c56d442c182e0e99f387a002a40d114dfa
     name: api-tier
@@ -354,7 +364,7 @@ entries:
     version: 0.0.776
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.793141919Z"
+    created: "2023-05-26T09:42:03.593039779Z"
     description: A Helm chart for Kubernetes
     digest: 4c459160134056bd8d566246f36d6c3da17c54c831fde5b7a4cca7e41a9511ca
     name: api-tier
@@ -364,7 +374,7 @@ entries:
     version: 0.0.775
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.792205805Z"
+    created: "2023-05-26T09:42:03.592412851Z"
     description: A Helm chart for Kubernetes
     digest: b7b6c689996583f2a8feb6dbf59e2d8948958fd057c16fca805807e2436e2818
     name: api-tier
@@ -374,7 +384,7 @@ entries:
     version: 0.0.774
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.791110888Z"
+    created: "2023-05-26T09:42:03.591771423Z"
     description: A Helm chart for Kubernetes
     digest: e03c5d136cfd7be37f508cc4e67c84e4ee74000fd6f048917013815cef92cb8d
     name: api-tier
@@ -384,7 +394,7 @@ entries:
     version: 0.0.773
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.785727005Z"
+    created: "2023-05-26T09:42:03.586418888Z"
     description: A Helm chart for Kubernetes
     digest: d0db214779f57cefead08dc6b317682620f1bec6a3685d1e5b4b21fbbc2f6083
     name: api-tier
@@ -394,7 +404,7 @@ entries:
     version: 0.0.0-f537cac5a1e3299596adb7a77b3ffa0d22c6f440
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.785233798Z"
+    created: "2023-05-26T09:42:03.585739658Z"
     description: A Helm chart for Kubernetes
     digest: d3518bc457b209be9e574148d33cf73e05c7b3d30a8f5ad5a158e95e64537511
     name: api-tier
@@ -404,7 +414,7 @@ entries:
     version: 0.0.0-e5d21d2d06c3d070f2111b12c004fa6852fcef1c
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.78473499Z"
+    created: "2023-05-26T09:42:03.584806517Z"
     description: A Helm chart for Kubernetes
     digest: 39910a8cada734d04e28de62ae4dba9f44e30a6bac5f46ddc5f0ec5fb82dbc28
     name: api-tier
@@ -414,7 +424,7 @@ entries:
     version: 0.0.0-cefe93a7c4229dfb5ad54e0760ed267fb77ed475
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.784207682Z"
+    created: "2023-05-26T09:42:03.583754471Z"
     description: A Helm chart for Kubernetes
     digest: 5a435e3593033b439094484c8fc232e262664306b2a3c45891b96b239eaba606
     name: api-tier
@@ -424,7 +434,7 @@ entries:
     version: 0.0.0-7d1f6fdfa18e85e9735e387110f6c3749aac40ca
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.782382754Z"
+    created: "2023-05-26T09:42:03.583227448Z"
     description: A Helm chart for Kubernetes
     digest: 3b79d3ac0e5d9ef9b905dc9a0599a4ace09f2064d46e676bcd24ad6978721363
     name: api-tier
@@ -434,7 +444,7 @@ entries:
     version: 0.0.0-5a40646b72aa3eae80514814a00dcdf30a88df23
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.781713944Z"
+    created: "2023-05-26T09:42:03.582739426Z"
     description: A Helm chart for Kubernetes
     digest: c343e3344b7e4347fec31a347210e41d1db0f476e9cdf763796fd9af7919a9fe
     name: api-tier
@@ -445,7 +455,7 @@ entries:
   api-tier-thg-impl:
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2023-05-26T09:37:59.805785613Z"
+    created: "2023-05-26T09:42:03.606641277Z"
     description: A Helm chart for Kubernetes
     digest: a0553e7e184ada94573057e84ab47e133dbd060a842d4093762806cde78a5143
     name: api-tier-thg-impl
@@ -456,7 +466,7 @@ entries:
   content-entity-api-tier:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.809208466Z"
+    created: "2023-05-26T09:42:03.610129031Z"
     description: A Helm chart for Kubernetes
     digest: 5b003672a7b279c0a9c1b8e1474322c0e937fcb66dbc51c63ee480195e5d41af
     name: content-entity-api-tier
@@ -466,7 +476,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.808650457Z"
+    created: "2023-05-26T09:42:03.609560806Z"
     description: A Helm chart for Kubernetes
     digest: 910edf747d6b3e4a27912a5cd83e576cb6b4f1296cd1c82ca006e3fbd68aaf57
     name: content-entity-api-tier
@@ -476,7 +486,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.808093249Z"
+    created: "2023-05-26T09:42:03.608995681Z"
     description: A Helm chart for Kubernetes
     digest: 4a6e113ab6d3fe03b542f31d4240af861aa6734750367d46f5a60e13e16d9540
     name: content-entity-api-tier
@@ -486,7 +496,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.80751784Z"
+    created: "2023-05-26T09:42:03.608420955Z"
     description: A Helm chart for Kubernetes
     digest: 516805eca08908e46d1712c18dd9da28f834132d7dd61f997fdf0c7a1ca062eb
     name: content-entity-api-tier
@@ -496,7 +506,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.80690133Z"
+    created: "2023-05-26T09:42:03.60785283Z"
     description: A Helm chart for Kubernetes
     digest: 283cd672a342f25cfe3ae67fbaf72ce2de35482500224195b4834b39a59672da
     name: content-entity-api-tier
@@ -506,7 +516,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.806347122Z"
+    created: "2023-05-26T09:42:03.607233503Z"
     description: A Helm chart for Kubernetes
     digest: 831da62bc8cb1032c0fc66bc3511ac5a786202d290730485a82394cf9c49100f
     name: content-entity-api-tier
@@ -517,7 +527,7 @@ entries:
   content-entity-processing-tier:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.809866876Z"
+    created: "2023-05-26T09:42:03.610684855Z"
     description: A Helm chart for Kubernetes
     digest: 5d5d9d857158e04f58fc0f4930d5961ad664120256e89bf27936668bdbd8142f
     name: content-entity-processing-tier
@@ -528,7 +538,7 @@ entries:
   inventory-api-tier:
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2023-05-26T09:37:59.824132895Z"
+    created: "2023-05-26T09:42:03.624521564Z"
     description: A Helm chart for Kubernetes
     digest: 65b2167b6be7aa1e9660a7ba7fba90fce934d3e52bfa95a997e9217024bef19e
     name: inventory-api-tier
@@ -538,7 +548,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2023-05-26T09:37:59.826839836Z"
+    created: "2023-05-26T09:42:03.62784281Z"
     description: A Helm chart for Kubernetes
     digest: 87599b7602c2d052cc426481a72841c5d8a380bd90ef784ed7484705fb9f45d0
     name: inventory-api-tier
@@ -548,7 +558,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2023-05-26T09:37:59.826283728Z"
+    created: "2023-05-26T09:42:03.627011573Z"
     description: A Helm chart for Kubernetes
     digest: 4965b68e6f8018a8f48dbb5837f83bb7ae21d796a9d659cec9a52aa570ee10dc
     name: inventory-api-tier
@@ -558,7 +568,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2023-05-26T09:37:59.825729319Z"
+    created: "2023-05-26T09:42:03.626084932Z"
     description: A Helm chart for Kubernetes
     digest: aa3bb41f2328c8967b98549ae516de15a57fc1730d6a1d8632c047459d9b93a4
     name: inventory-api-tier
@@ -568,7 +578,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2023-05-26T09:37:59.82515221Z"
+    created: "2023-05-26T09:42:03.625523908Z"
     description: A Helm chart for Kubernetes
     digest: c55468495bc8425510d849af6ee748b91db81c7791c3e51bed9c88a270f51405
     name: inventory-api-tier
@@ -578,7 +588,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2023-05-26T09:37:59.824651903Z"
+    created: "2023-05-26T09:42:03.625025386Z"
     description: A Helm chart for Kubernetes
     digest: d7da5e1ef1891e471ad2c3b320533e76eeb2db60d3147fd7b3f44dec1386b9e1
     name: inventory-api-tier
@@ -588,7 +598,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.823133279Z"
+    created: "2023-05-26T09:42:03.623945238Z"
     description: A Helm chart for Kubernetes
     digest: d9923776cdca2db78e5bf8d3ad684900de2579bb6613e71fe93beb29c5272c34
     name: inventory-api-tier
@@ -598,7 +608,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.822416268Z"
+    created: "2023-05-26T09:42:03.623419815Z"
     description: A Helm chart for Kubernetes
     digest: 145b240af30fe41712fbde38920ff771e6c29a78afc4f3cbdb7e756d8d825b7e
     name: inventory-api-tier
@@ -608,7 +618,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.821687257Z"
+    created: "2023-05-26T09:42:03.622909693Z"
     description: A Helm chart for Kubernetes
     digest: 1e247de219caa29089696d5df87be19a3eb9ff65d9438323d8b13586f27146d1
     name: inventory-api-tier
@@ -618,7 +628,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.821110848Z"
+    created: "2023-05-26T09:42:03.622325467Z"
     description: A Helm chart for Kubernetes
     digest: ebe24f16af9325a0dbb482cc639ef8a2c9549012fa6af11de0168bba054c1072
     name: inventory-api-tier
@@ -628,7 +638,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.82055654Z"
+    created: "2023-05-26T09:42:03.621748042Z"
     description: A Helm chart for Kubernetes
     digest: 1a528b6ea4a781de2a3ad13be04b7a9f2907f4921831b7a0c4f8962e49ea2c94
     name: inventory-api-tier
@@ -638,7 +648,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.813519432Z"
+    created: "2023-05-26T09:42:03.613602283Z"
     description: A Helm chart for Kubernetes
     digest: eeeb555eb2173270f666c55992cd1ab1b01e650b53aa8a94df7341bd48c53a13
     name: inventory-api-tier
@@ -648,7 +658,7 @@ entries:
     version: 0.0.11714
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.812705719Z"
+    created: "2023-05-26T09:42:03.613035158Z"
     description: A Helm chart for Kubernetes
     digest: 5af249faa0776fae1dc23baf3c07e7750b2151b92448ff4b073636ca51eba4bb
     name: inventory-api-tier
@@ -658,7 +668,7 @@ entries:
     version: 0.0.11713
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.811681304Z"
+    created: "2023-05-26T09:42:03.612465833Z"
     description: A Helm chart for Kubernetes
     digest: a79ea3c1d783d59b7ef82566b2857b5bc716f9652e19e273238a1972959ff134
     name: inventory-api-tier
@@ -668,7 +678,7 @@ entries:
     version: 0.0.11712
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.811083694Z"
+    created: "2023-05-26T09:42:03.611879308Z"
     description: A Helm chart for Kubernetes
     digest: 45ee5c60ff705af84b459a311504a5a8ba7e94261274add2286ed0484b981438
     name: inventory-api-tier
@@ -678,7 +688,7 @@ entries:
     version: 0.0.11711
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.810503086Z"
+    created: "2023-05-26T09:42:03.61125278Z"
     description: A Helm chart for Kubernetes
     digest: d804f439df488562dc695ede7ab8ba5e674c2d18046a7b3c6058a284f9bc9d9f
     name: inventory-api-tier
@@ -688,7 +698,7 @@ entries:
     version: 0.0.11710
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.814897153Z"
+    created: "2023-05-26T09:42:03.615082448Z"
     description: A Helm chart for Kubernetes
     digest: b1f3192eb407a101317ed5c94e8ba59b0e26b0265347ca11462d937e4b8d11e1
     name: inventory-api-tier
@@ -698,7 +708,7 @@ entries:
     version: 0.0.1179
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.814313644Z"
+    created: "2023-05-26T09:42:03.614172408Z"
     description: A Helm chart for Kubernetes
     digest: a45c6dddc3e7ed281930296af1a9919e9afc2ac879c7e6585b0cc4ec16e6d9b6
     name: inventory-api-tier
@@ -708,7 +718,7 @@ entries:
     version: 0.0.1178
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.820010831Z"
+    created: "2023-05-26T09:42:03.621178817Z"
     description: A Helm chart for Kubernetes
     digest: 5487e94ef3ba42da4d168c170054dc120239a751e3f1773a369019e3e0716b7c
     name: inventory-api-tier
@@ -718,7 +728,7 @@ entries:
     version: 0.0.919
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.819448823Z"
+    created: "2023-05-26T09:42:03.620607391Z"
     description: A Helm chart for Kubernetes
     digest: 80dcf431ad4b737b9434b4c663e79e6a5e8b31303ea133a7569f03be6472c84a
     name: inventory-api-tier
@@ -728,7 +738,7 @@ entries:
     version: 0.0.918
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.818873714Z"
+    created: "2023-05-26T09:42:03.620044267Z"
     description: A Helm chart for Kubernetes
     digest: 0168e8add456bd40c11d83958956b04dd1a308b3cbbdaa2bad53bb1a55cfdc03
     name: inventory-api-tier
@@ -738,7 +748,7 @@ entries:
     version: 0.0.917
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.818322206Z"
+    created: "2023-05-26T09:42:03.61944944Z"
     description: A Helm chart for Kubernetes
     digest: e15e86d53d2cfeef229a0536747590593bf830c0db48fb4431cc0a9790682840
     name: inventory-api-tier
@@ -748,7 +758,7 @@ entries:
     version: 0.0.916
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2023-05-26T09:37:59.817758497Z"
+    created: "2023-05-26T09:42:03.618876415Z"
     description: A Helm chart for Kubernetes
     digest: 72775075025a6c2e1e7fc84335e6e6fe98230078381a17f349db2bda093c9804
     name: inventory-api-tier
@@ -758,7 +768,7 @@ entries:
     version: 0.0.915
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.817166788Z"
+    created: "2023-05-26T09:42:03.618318091Z"
     description: A Helm chart for Kubernetes
     digest: 3b8bf0fe1df14f02b1128243d47a6572a84129b0c5a433c63b71bbcb8c3874bb
     name: inventory-api-tier
@@ -768,7 +778,7 @@ entries:
     version: 0.0.914
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.816614479Z"
+    created: "2023-05-26T09:42:03.617736365Z"
     description: A Helm chart for Kubernetes
     digest: 1d01a3ebdb89f46b859495da29a5641c98b8d52ca3ab9e813bd202d8c91d7d81
     name: inventory-api-tier
@@ -778,7 +788,7 @@ entries:
     version: 0.0.913
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2023-05-26T09:37:59.816054871Z"
+    created: "2023-05-26T09:42:03.616878527Z"
     description: A Helm chart for Kubernetes
     digest: ef04af31ae3914f3553808f19ac28e52637af94b4d673f9fee2bf9bd78f410ae
     name: inventory-api-tier
@@ -788,7 +798,7 @@ entries:
     version: 0.0.912
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.815492062Z"
+    created: "2023-05-26T09:42:03.615897584Z"
     description: A Helm chart for Kubernetes
     digest: 669fe95bc476c06f0e7cc18d47aad06b55944ddfe40967de60bc387446608f7c
     name: inventory-api-tier
@@ -799,7 +809,7 @@ entries:
   inventory-processing-tier:
   - apiVersion: v2
     appVersion: 1.0.24
-    created: "2023-05-26T09:37:59.838364413Z"
+    created: "2023-05-26T09:42:03.640012945Z"
     description: A Helm chart for Kubernetes
     digest: 4f0231d75d5934869ca63d45abc0cccb90623c07b26adbd0624ed01a5d001080
     name: inventory-processing-tier
@@ -809,7 +819,7 @@ entries:
     version: 1.0.29
   - apiVersion: v2
     appVersion: 1.0.24
-    created: "2023-05-26T09:37:59.837778504Z"
+    created: "2023-05-26T09:42:03.639185108Z"
     description: A Helm chart for Kubernetes
     digest: d14262206c5ee54468788252bb98783a8f0ebfba5b2ca443bd4d89ef150477e9
     name: inventory-processing-tier
@@ -819,7 +829,7 @@ entries:
     version: 1.0.28
   - apiVersion: v2
     appVersion: 1.0.24
-    created: "2023-05-26T09:37:59.837197395Z"
+    created: "2023-05-26T09:42:03.638393074Z"
     description: A Helm chart for Kubernetes
     digest: 98cc9e179f7253e8671d4680537f36de59f19024ef087e6b53a6e13ab58594be
     name: inventory-processing-tier
@@ -829,7 +839,7 @@ entries:
     version: 1.0.27
   - apiVersion: v2
     appVersion: 1.0.24
-    created: "2023-05-26T09:37:59.836638187Z"
+    created: "2023-05-26T09:42:03.637501634Z"
     description: A Helm chart for Kubernetes
     digest: 37a2eeac6fc941ca21f04fa5d8aeab5ad15cf8a9f461e31cf3e0ff46ce5128d8
     name: inventory-processing-tier
@@ -839,7 +849,7 @@ entries:
     version: 1.0.25
   - apiVersion: v2
     appVersion: 1.0.24
-    created: "2023-05-26T09:37:59.836067078Z"
+    created: "2023-05-26T09:42:03.636678898Z"
     description: A Helm chart for Kubernetes
     digest: d12438e6365e032af50e16f11457ba064c104eb09b824a37582163aaf596f77f
     name: inventory-processing-tier
@@ -849,7 +859,7 @@ entries:
     version: 1.0.24
   - apiVersion: v2
     appVersion: 1.0.23
-    created: "2023-05-26T09:37:59.835507869Z"
+    created: "2023-05-26T09:42:03.636105773Z"
     description: A Helm chart for Kubernetes
     digest: 49b9cf64aa5569fcbb45a775dce170da12dc1ae0249ce17c91e73cfe35da022d
     name: inventory-processing-tier
@@ -859,7 +869,7 @@ entries:
     version: 1.0.23
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.83491476Z"
+    created: "2023-05-26T09:42:03.635491246Z"
     description: A Helm chart for Kubernetes
     digest: 2ad0c050b175f0ab8a896984de58446b367eff9859c31c3322ec0ff7d81ca85b
     name: inventory-processing-tier
@@ -869,7 +879,7 @@ entries:
     version: 1.0.22
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.834350552Z"
+    created: "2023-05-26T09:42:03.63490492Z"
     description: A Helm chart for Kubernetes
     digest: 6225f1868e814cca3e1b864339b8b6c4252b94b3eac6d7ebed810dc527a6792d
     name: inventory-processing-tier
@@ -879,7 +889,7 @@ entries:
     version: 1.0.21
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.83359464Z"
+    created: "2023-05-26T09:42:03.634336695Z"
     description: A Helm chart for Kubernetes
     digest: f2f003b718c4d787cb6597a451527190acd254ffdb11c286fbb08963e147c084
     name: inventory-processing-tier
@@ -889,7 +899,7 @@ entries:
     version: 1.0.20
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.831843813Z"
+    created: "2023-05-26T09:42:03.633263048Z"
     description: A Helm chart for Kubernetes
     digest: 57a4e80284a73fe8272b4c5db270282177ebe92135709fbbd6efbb74bd4d1907
     name: inventory-processing-tier
@@ -899,7 +909,7 @@ entries:
     version: 1.0.19
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.831259904Z"
+    created: "2023-05-26T09:42:03.632689623Z"
     description: A Helm chart for Kubernetes
     digest: 3e5cdb6b936e6f75f6f5de5e15b101c2ff8d03d1e7bce1b8b715e6eda82b47b8
     name: inventory-processing-tier
@@ -909,7 +919,7 @@ entries:
     version: 1.0.18
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.830675895Z"
+    created: "2023-05-26T09:42:03.632112297Z"
     description: A Helm chart for Kubernetes
     digest: fef20bb1ce9dda3bfe63be1ae87d289c9bd5a57da6234020b1b0242e07d76b1d
     name: inventory-processing-tier
@@ -919,7 +929,7 @@ entries:
     version: 1.0.17
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.830122887Z"
+    created: "2023-05-26T09:42:03.631516271Z"
     description: A Helm chart for Kubernetes
     digest: 7524335a858cf30bba83b0524e1bb88f0e77f770159ea77cd92c77e851b2cd28
     name: inventory-processing-tier
@@ -929,7 +939,7 @@ entries:
     version: 1.0.16
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.829556778Z"
+    created: "2023-05-26T09:42:03.630948646Z"
     description: A Helm chart for Kubernetes
     digest: 465e4e347a218926fa330fe9a6eb7dbb46d0cb9e00a80b622d06d3b6efa7a2fb
     name: inventory-processing-tier
@@ -939,7 +949,7 @@ entries:
     version: 1.0.15
   - apiVersion: v2
     appVersion: 1.0.14
-    created: "2023-05-26T09:37:59.829000469Z"
+    created: "2023-05-26T09:42:03.630367821Z"
     description: A Helm chart for Kubernetes
     digest: 659f705a5e60a3b561344ed534a087e4758342a0b41358d64db77695eeef1efa
     name: inventory-processing-tier
@@ -949,7 +959,7 @@ entries:
     version: 1.0.14
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2023-05-26T09:37:59.828444961Z"
+    created: "2023-05-26T09:42:03.629776795Z"
     description: A Helm chart for Kubernetes
     digest: 377731b9df72a19ba72b4dab5049b96746fbbd0489001b8008a4ab48b93283a5
     name: inventory-processing-tier
@@ -959,7 +969,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2023-05-26T09:37:59.832795228Z"
+    created: "2023-05-26T09:42:03.63376187Z"
     description: A Helm chart for Kubernetes
     digest: 493b8009c2fd4246267ac0e06249ac7a3fd58908f774b8236581ff158519a391
     name: inventory-processing-tier
@@ -969,7 +979,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2023-05-26T09:37:59.827885052Z"
+    created: "2023-05-26T09:42:03.629198769Z"
     description: A Helm chart for Kubernetes
     digest: 778f25c19054d175b02e1fa0eb0fe6ed87547fda21d2a933d91beb14baa034ae
     name: inventory-processing-tier
@@ -979,7 +989,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.827354744Z"
+    created: "2023-05-26T09:42:03.628671646Z"
     description: A Helm chart for Kubernetes
     digest: c02705626aadb37e18e1ebfe01482faeee6d8ab580dfce29e2d1e4f55e99969c
     name: inventory-processing-tier
@@ -990,7 +1000,7 @@ entries:
   pricing-api-tier:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.842543077Z"
+    created: "2023-05-26T09:42:03.644058723Z"
     description: A Helm chart for Kubernetes
     digest: a04771a705ddfba92f2623b296c8ba939a91b42820edad68b69607e44a7d9517
     name: pricing-api-tier
@@ -1000,7 +1010,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.841744865Z"
+    created: "2023-05-26T09:42:03.643466497Z"
     description: A Helm chart for Kubernetes
     digest: 56d3c1ecf079065e75c1c3471ea9b93f0c397a738198ae20015609c7e264de51
     name: pricing-api-tier
@@ -1010,7 +1020,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.841183857Z"
+    created: "2023-05-26T09:42:03.642898572Z"
     description: A Helm chart for Kubernetes
     digest: 07654f9b7e5537fe94757b26d32fb5317b68ae6b64c4549fbc50093eb0330a3a
     name: pricing-api-tier
@@ -1020,7 +1030,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.840624848Z"
+    created: "2023-05-26T09:42:03.642323446Z"
     description: A Helm chart for Kubernetes
     digest: d3fe4b4c952dbaf6b94c23565037ee9ad70fd98d77543995a4c46879504d65c0
     name: pricing-api-tier
@@ -1030,7 +1040,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.840069339Z"
+    created: "2023-05-26T09:42:03.641744221Z"
     description: A Helm chart for Kubernetes
     digest: 72253c480e7157df513f5aed2913091acef9c5a0d3fd6cfec05b5bccef206aed
     name: pricing-api-tier
@@ -1040,7 +1050,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.839506731Z"
+    created: "2023-05-26T09:42:03.641166195Z"
     description: A Helm chart for Kubernetes
     digest: 1cf29cc1bf056059a8580ddfa1943ab8ec028c9d8d45d85b5f914070e811c923
     name: pricing-api-tier
@@ -1050,7 +1060,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-05-26T09:37:59.838922022Z"
+    created: "2023-05-26T09:42:03.64059257Z"
     description: A Helm chart for Kubernetes
     digest: 038d93e5343f57567531d628265522d2198be9bb6aeee6c724e3da54b24227f4
     name: pricing-api-tier
@@ -1061,7 +1071,7 @@ entries:
   processing-tier:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.8440177Z"
+    created: "2023-05-26T09:42:03.645068367Z"
     description: A Helm chart for Kubernetes
     digest: 44c8b820b67c9319a96a13ba55322eb6997a5627ce15ffd3623087782f02dd88
     name: processing-tier
@@ -1071,7 +1081,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.843274489Z"
+    created: "2023-05-26T09:42:03.644560345Z"
     description: A Helm chart for Kubernetes
     digest: 325763ac8cad1fbab9c7145dd3f8a6d6a77ffb469e59faac2ae515cbc0798156
     name: processing-tier
@@ -1082,7 +1092,7 @@ entries:
   processing-tier-thg-impl:
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2023-05-26T09:37:59.844602209Z"
+    created: "2023-05-26T09:42:03.645559989Z"
     description: A Helm chart for Kubernetes
     digest: 9d175d00cd8ae0b11373a9d9074555bcbc37bb20b13a36b8d83ce531cca49623
     name: processing-tier-thg-impl
@@ -1093,7 +1103,7 @@ entries:
   product-api-tier:
   - apiVersion: v2
     appVersion: 1.0.13
-    created: "2023-05-26T09:37:59.845653625Z"
+    created: "2023-05-26T09:42:03.646536032Z"
     description: A Helm chart for Kubernetes
     digest: e86c1357c54357858fa467993daf81aa11fb7b919258b8daae1831d6fc82ed87
     name: product-api-tier
@@ -1103,7 +1113,7 @@ entries:
     version: 1.0.13
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-05-26T09:37:59.845114917Z"
+    created: "2023-05-26T09:42:03.64604701Z"
     description: A Helm chart for Kubernetes
     digest: 112e66d9a9766c04946d47c7f44a3d5ba5d243f247ebb2eaa1480f20e24b5a02
     name: product-api-tier
@@ -1111,4 +1121,4 @@ entries:
     urls:
     - https://THG-Project-Frontier.github.io/frontier-app-catalog/product-api-tier-1.0.0.tgz
     version: 1.0.0
-generated: "2023-05-26T09:37:59.775103542Z"
+generated: "2023-05-26T09:42:03.57487338Z"
